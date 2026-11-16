@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Baozi Store (Debug)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.aula.baozi.store.Application" />
+    <module name="baozi.store" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
